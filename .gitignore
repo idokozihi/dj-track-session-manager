@@ -1,0 +1,24 @@
+# Build files
+bin/
+*.o
+*.exe
+
+# Temporary outputs
+diff_result.txt
+interactive_output.txt
+interactive_play_all_output*.txt
+my_output*
+my.txt
+test_output.txt
+
+# Submission archive
+*.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# VS Code local settings
+.vscode/
+
+# Generated outputs inside input folders
+input_2/*output*.txt
